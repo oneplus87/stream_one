@@ -112,19 +112,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="TV NASIONAL",HBO
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="TV NASIONAL",HBO Family
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="TV NASIONAL",HBO Hits
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="TV NASIONAL",HBO Signature
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="TV NASIONAL",Galaxy
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIE",HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIE",HBO Family
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIE",HBO Signature
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="MOVIE",Galaxy
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264773
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="TV NASIONAL",Galaxy Premium
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="MOVIE",Galaxy Premium
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264774
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="TV NASIONAL",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIE",Cinemax
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197964
 
 
@@ -307,5 +309,4 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?toke
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
-
 
