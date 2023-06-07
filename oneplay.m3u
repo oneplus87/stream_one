@@ -12,7 +12,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=3122273513&o2
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="TV NASIONAL",trans7 useetv
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="TV NASIONAL",net tv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="TV NASIONAL",nettv
 https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="TV NASIONAL",Net tv
@@ -26,6 +26,11 @@ https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd?o1=3245113071&o2
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="TV NASIONAL",antv useetv
 https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1032193080&o2=1032193000&o3=1032193000&o4=1032193000&oa=1032193000
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=anteve
+http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
 
 
 
@@ -112,10 +117,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9qn2Jz/20220926-161847.png" group-title="MOVIE", HBO HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="MOVIE", Indonesia Movie Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 group-title="MOVIE" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png",IMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://103.152.118.53:80/streams/visyen/dash/IndonesiaMovieChannels-HD/master.mpd
+
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="paramountnetworkindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/640px-Paramount_Network.svg.png",Paramount Network
+http://103.152.118.53:80/streams/efemeks/paramountnetworek/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="hboeast.us",HBO
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium321/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
+http://103.152.118.53:80/streams/trans/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx667P8Z/tvnmovie.png" group-title="MOVIE", TVN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
@@ -124,17 +144,22 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIE",HBO Family
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197055
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196480
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIE",HBO Signature
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221948
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="MOVIE",Galaxy
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264773
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="MOVIE",Galaxy Premium
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264774
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="galaxypremium.id" tvg-logo="https://i.imgur.com/FbqpsDe.png",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://103.152.118.53:80/streams/visyen/dash/GalaxyPremium-HD/master.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIE",Cinemax
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197964
+
 
 
 #EXTINF:-1 group-title="SONY",Sony TEN 1 
@@ -179,16 +204,30 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
 #EXTINF:-1 group-title="SPORT INDONESIA",BEIN 3 ID Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298506
 
-#EXTINF:-1 group-title="ASTRO MY",Astro SuperSport Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/146068
-#EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 2 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157556
-#EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 3 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157557
-#EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 4 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157558
-#EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 5 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/287792
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport5.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest",Astro SuperSport 5
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 group-title="ASTRO MY",Astro SuperSport kuchini
 http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
@@ -201,6 +240,10 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 #EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 5 kuchini
 http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="barcatv.es" tvg-logo="https://i.imgur.com/7DnpNtj.png",Barça TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=barcateve
+https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
 
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
@@ -234,18 +277,49 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2543
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/38575
 #EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Premier League Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11642
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 1 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64711
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 2 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/64712
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 3 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269912
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 4 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269911
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN LaLiga Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/297787
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN LaLiga 2 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298745
+
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 Deutschland
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="dazn1spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 España
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="DAZN 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",DAZN 2 Deutschland
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="dazn2spain.es" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png",DAZN 2 España
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="dazn3spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3 España
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium447/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="dazn4spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN 4 España
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium448/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=dajen
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+
 #EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/64711.ts
 #EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 2
