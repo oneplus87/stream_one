@@ -372,10 +372,10 @@ http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298381
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2543
 #EXTINF:-1 group-title="SPORT WORLD",IT: Sky Sport Football
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2543
-#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Football Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/38575
-#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Premier League Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11642
+#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Football01
+http://ae2.aatvbox.club:8880/12mk160078/31623992/28853
+#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Premier League01
+http://ae2.aatvbox.club:8880/12mk160078/31623992/28848
 
 
 #EXTINF:-1 group-title="SPORT WORLD" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 Deutschland
@@ -585,3 +585,4 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
+
