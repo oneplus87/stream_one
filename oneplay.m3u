@@ -450,6 +450,10 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/81096
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1937
 #EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT 1 
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
+
+#EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT a
+http://ae2.aatvbox.club:8880/12mk160078/31623992/28094
+
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: Canale 5" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="SPORT WORLD",IT: Canale 5
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/902
 #EXTINF:-1 group-title="SPORT WORLD",AT: Sky Sport Austria 1
@@ -465,14 +469,14 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11638
 #EXTINF:-1 group-title="MOTOGP",EX-YU: Sport Klub 3 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282759
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT (k)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/270
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 2 (k)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/273
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 3 (k)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/271
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 4 ESPN (k)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298471
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",UK014:BT Sport 1 HD
+http://ae2.aatvbox.club:8880/12mk160078/31623992/2943
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",UK015:BT Sport 2 HD
+http://ae2.aatvbox.club:8880/12mk160078/31623992/2942
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",UK016:BT Sport 3 HD
+http://ae2.aatvbox.club:8880/12mk160078/31623992/2941
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",UK112:BT Sports 4 HD
+http://ae2.aatvbox.club:8880/12mk160078/31623992/28947
 
 #EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT Sports1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -579,3 +583,5 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
+#EXTINF:-1 group-title="SPORT WORLD",TYC SPORT 01
+http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
