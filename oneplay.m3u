@@ -64,7 +64,7 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Lokal",Indosiar3
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="TV NASIONAL",Indosiar3
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans 7
@@ -232,7 +232,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.imgur.com/Cd70C6B.png" group-title="MOVIES",HBO Hits (T*)
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.imgur.com/Cd70C6B.png" group-title="MOVIE",HBO Hits (T*)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
@@ -271,12 +271,11 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
 
 #EXTINF:-1 group-title="SPORT INDONESIA",CHAMPIONS 1 
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
 #EXTINF:-1 group-title="SPORT INDONESIA",CHAMPIONS 2 
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
 #EXTINF:-1 group-title="SPORT INDONESIA",CHAMPIONS 3 
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
-
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298514
 
 #EXTINF:-1 group-title="SPORT INDONESIA" tvg-id="championstv5.id" tvg-logo="https://i.imgur.com/pqvRLXh.png",Champions TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -300,6 +299,11 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
 #EXTINF:-1 group-title="SPORT INDONESIA",BEIN 3 ID Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298506
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Malaysia 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=beinmlayu_3
+http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -341,6 +345,14 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=barcateve
 https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="unifi Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest",Unifi Sports 2
+http://thefirefox12537.github.io/streams/nosignal/index.m3u8
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
 
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
@@ -448,8 +460,8 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/81096
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1937
 #EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT 1 
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
-#EXTINF:-1 group-title="SPORT WORLD",IT: Canale 5
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/902
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: Canale 5" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="SPORT WORLD",IT: Canale 5
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/902
 #EXTINF:-1 group-title="SPORT WORLD",AT: Sky Sport Austria 1
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2130
 #EXTINF:-1 group-title="SPORT WORLD",PT: ELEVEN SPORTS 1 Afxx
@@ -496,3 +508,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?to
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg" group-title="SPORT WORLD",Fight TV Premium
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmWUPqa7AcPHIsONKPB499x5Z56qfGOzGlQ&usqp=CAU" group-title="SPORT WORLD",MMA TV
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://i.imgur.com/dxTIvB2.png",Bellator MMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="SPORT WORLD",CH: Blue Sport 2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/6187
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="espn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN 1 US
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium44/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="espn2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png",ESPN 2 US
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium45/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="espndeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium375/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="match.ru" tvg-logo="https://3.bp.blogspot.com/-Ywd23nsIxeU/Wwq8P5mSblI/AAAAAAAATMI/UH-GSli4hIAu_cIvDbiBH2fhdz6Q7mGVACLcBGAs/s1600/match_ru_tv.png",MATCH!
+#EXTVLCOPT:http-referrer=https://besthdplayer.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium11/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="matchfutbol1.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640",MATCH! Futbol 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium136/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="SPORT WORLD",ID: Fight Sport
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298531
