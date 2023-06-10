@@ -6,6 +6,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=168605772
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV NASIONAL",sctv useetv
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd?o1=3294709312&o2=3294707312&o3=3294707312&o4=3294707312&o5=3294707312&oa=3294707312
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV 01
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162141
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="TV NASIONAL",trans tv useetv
 https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=3122273513&o2=3122273513&o3=3122273513&o4=3122273513&o5=3122273513&oa=3122273513
 
@@ -569,7 +572,10 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298531
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium400/index.m3u8
 
-#EXTINF:-1 group-title="SPORT WORLD",Tring Sport 1 HD (AL)
-http://burebaruta.xyz:12974/play/qPk1Bi3tYaOaEpwpbuxmuTc5KplQFbN6Q-BvaLNIfufUg1jkKQD7XWasdG6acldD
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="SPORT WORLD", beIN Sports Thailand 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
