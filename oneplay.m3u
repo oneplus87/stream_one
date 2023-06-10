@@ -358,22 +358,9 @@ http://thefirefox12537.github.io/streams/nosignal/index.m3u8
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/8749
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 1 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/270
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 2 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/273
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 3 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/271
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 4 Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298471
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 1
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/270
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 2 
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/273
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 3
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/271
-#EXTINF:-1 group-title="SPORT WORLD",BT SPORT 4
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298471
+
+
+
 #EXTINF:-1 group-title="SPORT WORLD",Sky Sport Premiere League Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298381
 #EXTINF:-1 group-title="SPORT WORLD",Sky Sport Premiere League
@@ -440,7 +427,7 @@ http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/269911.ts
 #EXTINF:-1 group-title="SPORT WORLD",ES: DAZN LaLiga
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/297787.ts
 #EXTINF:-1 group-title="SPORT WORLD",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1492
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1492
 #EXTINF:-1 group-title="SPORT WORLD",NL: ZIGGO Voetbal
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 #EXTINF:-1 group-title="SPORT WORLD",DE: ZDF
@@ -475,14 +462,48 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11638
 #EXTINF:-1 group-title="MOTOGP",EX-YU: Sport Klub 3 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282759
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT WORLD",BT Sport 1 zz
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT WORLD",BT Sport 2 zz
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT WORLD",BT Sport 3 zz
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT WORLD",BT Sport 4 zz
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts&play_token=zulkarnain@.ts
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT (k)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/270
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 2 (k)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/273
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 3 (k)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/271
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 4 ESPN (k)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298471
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT Sports1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium31/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sports2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium32/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT Sports3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium33/index.m3u8
+
+#EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT Sports4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://webudit.cdnhks.lol/lb/premium34/index.m3u8
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 2 
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORT WORLD",BT SPORT 4 ESPN
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298471.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="SPORT WORLD",Sky Sports Premier League zz
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="SPORT WORLD",Sky Sports Football zz
