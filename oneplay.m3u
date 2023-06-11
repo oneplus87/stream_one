@@ -263,25 +263,25 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197964
 
 
 
-#EXTINF:-1 group-title="SONY",Sony TEN 1 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 1 
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 2 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 2 
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 3 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 3 
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 group-title="SONY",Sony TEN 4 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 4 
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 5 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 5 
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 1 HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 2 HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 2 HD 
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 3 HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 3 HD 
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 4 HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 4 HD 
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
-#EXTINF:-1 group-title="SONY",Sony TEN 5 HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SONY",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
 
 #EXTINF:-1 group-title="SPORT INDONESIA",CHAMPIONS 1 
@@ -366,24 +366,24 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-#EXTINF:-1 group-title="SPORT WORLD",TYC SPORT Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
-#EXTINF:-1 group-title="SPORT WORLD",TYC SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 
 
 
-#EXTINF:-1 group-title="SPORT WORLD",Sky Sport Premiere League Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",Sky Sport Premiere League Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298381
-#EXTINF:-1 group-title="SPORT WORLD",Sky Sport Premiere League
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",Sky Sport Premiere League
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298381
-#EXTINF:-1 group-title="SPORT WORLD",IT: Sky Sport Football Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",IT: Sky Sport Football Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2543
-#EXTINF:-1 group-title="SPORT WORLD",IT: Sky Sport Football
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",IT: Sky Sport Football
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2543
-#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Football01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ZA: SuperSport Football01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/28853
-#EXTINF:-1 group-title="SPORT WORLD",ZA: SuperSport Premier League01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ZA: SuperSport Premier League01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/28848
 
 
@@ -428,47 +428,44 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: DAZN 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/64711.ts
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: DAZN 2
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/64712.ts
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: DAZN 3
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/269912.ts
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: DAZN 4
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/269911.ts
-#EXTINF:-1 group-title="SPORT WORLD",ES: DAZN LaLiga
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: DAZN LaLiga
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/297787.ts
-#EXTINF:-1 group-title="SPORT WORLD",PT: SPORT TV 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",PT: SPORT TV 4
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1492
-#EXTINF:-1 group-title="SPORT WORLD",NL: ZIGGO Voetbal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",NL: ZIGGO Voetbal
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2502
-#EXTINF:-1 group-title="SPORT WORLD",DE: ZDF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",DE: ZDF
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/409
-#EXTINF:-1 group-title="SPORT WORLD",UK: BBC One Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",UK: BBC One Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/697
-#EXTINF:-1 group-title="SPORT WORLD",UK: itv 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",UK: itv 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296931
 
-#EXTINF:-1, group-title="SPORT WORLD",ES: MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: MOVISTAR LIGA DE CAMPEONES
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2800
 
-#EXTINF:-1 group-title="SPORT WORLD",ES: MOVISTAR LIGA DE CAMPEONES 2
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/81096
-
-#EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT 1 Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",FR: RMC SPORT 1 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1937
-#EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT 1 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",FR: RMC SPORT 1 
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 
-#EXTINF:-1 group-title="SPORT WORLD",PT: ELEVEN SPORTS 1 Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",PT: ELEVEN SPORTS 1 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1499
-#EXTINF:-1 group-title="SPORT WORLD",PT: ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",PT: ELEVEN SPORTS 1
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1499.ts
-#EXTINF:-1 group-title="MOTOGP",NL: ZIGGO Select
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="MOTOGP",NL: ZIGGO Select
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/851
-#EXTINF:-1 group-title="MOTOGP",ZA: SuperSport Motorsport Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="MOTOGP",ZA: SuperSport Motorsport Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/11638
-#EXTINF:-1 group-title="MOTOGP",EX-YU: Sport Klub 3 Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="MOTOGP",EX-YU: Sport Klub 3 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282759
 
 #EXTINF:-1 group-title="SPORT WORLD" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",UK014:BT Sport 1 HD
@@ -585,11 +582,11 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
-#EXTINF:-1 group-title="SPORT WORLD",TYC SPORT 01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="UFC/BOXING",UFC Fight Pass (USA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="UFC/BOXING",UFC Fight Pass (USA)
 http://burebaruta.xyz:12974/play/qPk1Bi3tYaOaEpwpbuxmuRixq9XjiFz3qIVJVPruDvRfyuOHBAckHekEO9YxSMwA
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="[ INFORMASI UPDATE ]",PLAYLIST PRIBADI GUYS !!
-https://www.dropbox.com/s/91ddrxlc8wjrfnh/seruuu%20%21%21%21%20Bermain%20dan%20belajar.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="[ INFORMASI UPDATE ]",PLAYLIST PRIBADI GUYS !!
+https://veed.io/view/e883125f-f298-4665-aedb-ef84087ec1b8
