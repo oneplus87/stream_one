@@ -2,10 +2,6 @@
 refresh="3600"
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="[ INFORMASI UPDATE ]", PLAYLIST PRIBADI GUYS !!
-https://www.dropbox.com/s/91ddrxlc8wjrfnh/seruuu%20%21%21%21%20Bermain%20dan%20belajar.mp4?dl=0
-
-
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="TV NASIONAL",indosiar useetv
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
 
@@ -592,6 +588,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
 
-#EXTINF:-1 group-title="UFC/BOXING",UFC Fight Pass (USA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="UFC/BOXING",UFC Fight Pass (USA)
 http://burebaruta.xyz:12974/play/qPk1Bi3tYaOaEpwpbuxmuRixq9XjiFz3qIVJVPruDvRfyuOHBAckHekEO9YxSMwA
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="[ INFORMASI UPDATE ]",PLAYLIST PRIBADI GUYS !!
+https://www.dropbox.com/s/91ddrxlc8wjrfnh/seruuu%20%21%21%21%20Bermain%20dan%20belajar.mp4?dl=0
