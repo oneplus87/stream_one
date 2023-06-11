@@ -1,13 +1,8 @@
 #EXTM3U
 refresh="3600"
 
-#EXTINF:-1 group-logo="https://www.dropbox.com/s/b7kolxxluck5j6r/photo_2022-11-21_17-36-30.jpg?dl=0",
-#EXTGRP:[ INFORMATION ]
 
-######## INFORMATION ########
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/b7kolxxluck5j6r/photo_2022-11-21_17-36-30.jpg?dl=0",DO NOT FOR SALE
-#EXTGRP:[ INFORMATION ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4HjrPPc/photo-2022-11-21-17-36-30.jpg" group-title="[ INFORMASI UPDATE ]", PLAYLIST PRIBADI GUYS !!
 https://www.dropbox.com/s/91ddrxlc8wjrfnh/seruuu%20%21%21%21%20Bermain%20dan%20belajar.mp4?dl=0
 
 
