@@ -6,7 +6,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=168605772
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV NASIONAL",sctv useetv
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd?o1=3294709312&o2=3294707312&o3=3294707312&o4=3294707312&o5=3294707312&oa=3294707312
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV 01
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV NASIONAL",ID: SCTV 01
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162141
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="TV NASIONAL",trans tv useetv
@@ -97,9 +97,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0b
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296214
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQuCmOh6Ke98ZQqU7znwCrFsODoLocFo-6w&usqp=CAU" group-title="TV NASIONAL",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesport_ver1.png" group-title="TV NASIONAL",Usee Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesport_ver1.png" group-title="SPORT INDONESIA",Usee Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298577
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesports2_ver1.png" group-title="TV NASIONAL",Usee Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesports2_ver1.png" group-title="SPORT INDONESIA",Usee Sport 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298578
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="TV NASIONAL",Moji
@@ -208,6 +208,15 @@ http://webudit.cdnhks.lol/lb/premium321/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 http://103.152.118.53:80/streams/trans/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",ID: Etv Bioskop
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",ID: Etv Bioskop 02
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298527
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",ID: Etv Bioskop 03
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298528
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",ID: Etv Bioskop 04
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298529
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -297,7 +306,6 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 #EXTINF:-1 group-title="SPORT INDONESIA",BEIN 3 ID 
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
-
 #EXTINF:-1 group-title="SPORT INDONESIA",BEIN 1 ID Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
 #EXTINF:-1 group-title="SPORT INDONESIA",BEIN 3 ID Afxx
@@ -349,12 +357,11 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=barcateve
 https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
 
-#EXTINF:-1 group-title="SPORT WORLD" tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest",Unifi Sports 1
+#EXTINF:-1 group-title="UFC/BOXING" tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="SPORT WORLD" tvg-id="unifi Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest",Unifi Sports 2
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 group-title="UFC/BOXING" tvg-id="unifi Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT Afxx
@@ -451,13 +458,6 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1937
 #EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT 1 
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 
-#EXTINF:-1 group-title="SPORT WORLD",FR: RMC SPORT a
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28094
-
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: Canale 5" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="SPORT WORLD",IT: Canale 5
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/902
-#EXTINF:-1 group-title="SPORT WORLD",AT: Sky Sport Austria 1
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2130
 #EXTINF:-1 group-title="SPORT WORLD",PT: ELEVEN SPORTS 1 Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1499
 #EXTINF:-1 group-title="SPORT WORLD",PT: ELEVEN SPORTS 1
@@ -533,10 +533,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?to
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg" group-title="SPORT WORLD",Fight TV Premium
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg" group-title="UFC/BOXING",Fight TV Premium
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmWUPqa7AcPHIsONKPB499x5Z56qfGOzGlQ&usqp=CAU" group-title="SPORT WORLD",MMA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmWUPqa7AcPHIsONKPB499x5Z56qfGOzGlQ&usqp=CAU" group-title="UFC/BOXING",MMA TV
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 
 
@@ -568,7 +568,7 @@ http://webudit.cdnhks.lol/lb/premium11/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium136/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="SPORT WORLD",ID: Fight Sport
+#EXTINF:-1 tvg-id="" tvg-name="ID: Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="UFC/BOXING",ID: Fight Sport
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298531
 
 #EXTINF:-1 group-title="SPORT WORLD" tvg-id="digisport1romania.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 
@@ -586,10 +586,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 #EXTINF:-1 group-title="SPORT WORLD",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/digisport1.png" group-title="SPORT WORLD", DIGI SPORT 1a
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099193
-
-#EXTINF:-1 group-title="SPORT WORLD",UFC Fight Pass (USA)
+#EXTINF:-1 group-title="UFC/BOXING",UFC Fight Pass (USA)
 http://burebaruta.xyz:12974/play/qPk1Bi3tYaOaEpwpbuxmuRixq9XjiFz3qIVJVPruDvRfyuOHBAckHekEO9YxSMwA
-
 
