@@ -636,3 +636,11 @@ https://devds.site/api/youlive.m3u8?v=dGTEfbdZNv4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title=" Timnas ", idn vs ple
 https://denstv.herokuapp.com/index.php?id=7
 
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT1
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI Sport2
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
