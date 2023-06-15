@@ -656,11 +656,9 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 group-title="live event" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET.
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",ES: MOVISTAR LIGA DE CAMPEONES
 http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/2800
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",SA: SSC 1
 http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/280132
-
 
