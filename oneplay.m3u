@@ -377,9 +377,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 
 
@@ -455,7 +455,7 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2502
 
 
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",ES: MOVISTAR LIGA DE CAMPEONES
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2800
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",FR: RMC SPORT 1 Afxx
@@ -530,7 +530,7 @@ http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/298471
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="SPORT WORLD",Sky Sports Football zz
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="SPORT WORLD",VIAPLAY SPORTS 1 ZZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="live event",VIAPLAY SPORTS 1 ZZ
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="SPORT WORLD",VIAPLAY XTRA ZZ
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=ts&play_token=zulkarnain@.ts
@@ -602,7 +602,7 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT 01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="UFC/BOXING",UFC Fight Pass (USA)
@@ -636,11 +636,34 @@ https://devds.site/api/youlive.m3u8?v=dGTEfbdZNv4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title=" Timnas ", idn vs ple
 https://denstv.herokuapp.com/index.php?id=7
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT1
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="tvri sport",TVRI SPORT1
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI Sport2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="tvri sport",TVRI Sport2
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="tvri sport",TVRI SPORT3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="live event" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
+https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="live event" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET. TV
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="live event" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET.
+https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",ES: MOVISTAR LIGA DE CAMPEONES
+http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/2800
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",SA: SSC 1
+http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/280132
+
+
