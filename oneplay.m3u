@@ -7,7 +7,7 @@ refresh="3600"
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV NASIONAL",sctv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd?o1=3294709312&o2=3294707312&o3=3294707312&o4=3294707312&o5=3294707312&oa=3294707312
+https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd?o1=209877377&o2=209877377&o3=209877377&o4=209877377&o5=209877377&oa=209877377
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV NASIONAL",ID: SCTV 01
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162141
@@ -17,7 +17,7 @@ http://103.166.27.2:800/play/a015
 #http://103.152.118.53:80/streams/esceteve/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="TV NASIONAL",trans tv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=3122273513&o2=3122273513&o3=3122273513&o4=3122273513&o5=3122273513&oa=3122273513
+https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=210928009&o3=210928009&o4=210928009&o5=210928009&oa=210928009
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="TV NASIONAL",trans7 useetv
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
@@ -34,13 +34,13 @@ https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="TV NASIONAL",tvone useetv
-https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd?o1=1154915000&o2=1154913000&o3=1154913000&oa=1154913000
+https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd?o1=52061000&o2=52061000&o3=52061000&oa=52061000
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="TV NASIONAL",metro tv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd?o1=3245113071&o2=3245113071&o3=3245113071&o4=3245113071&o5=3245113071&oa=3245113071
+https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd?o1=209877377&o2=209877377&o3=209877377&o4=209877377&o5=209877377&oa=209877377
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="TV NASIONAL",antv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1032193080&o2=1032193000&o3=1032193000&o4=1032193000&oa=1032193000
+https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=113688142&o2=113688062&o3=113688062&o4=113688062&oa=113688062
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -123,7 +123,7 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165059
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="TV NASIONAL",Kompas TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165060
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="TV NASIONAL",Kompas TV useetv
-https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd?o1=3248928018&o2=3248930018&o3=3248928018&o4=3248928018&oa=3248928018
+https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd?o1=209771997&o2=209771997&o3=209771997&o4=209771997&oa=209771997
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL",INews
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
@@ -131,7 +131,7 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rtv" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="TV NASIONAL",Rtv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd?o1=1205641080&o2=1205641000&o3=1205641000&o4=1205641000&oa=1205641000
+https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd?o1=120870115&o2=120870035&o3=120872035&o4=120870035&oa=120870035
 
 #EXTINF:-1 group-title="SPORT INDONESIA" tvg-id="championstv1worldcup.id" tvg-logo="https://i.imgur.com/krTn2fI.png",Champions TV World Cup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -175,7 +175,7 @@ http://103.152.118.53:80/streams/visyen/dash/IndonesiaMovieChannels-HD/master.mp
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIE",HBO ID
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -377,9 +377,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT Afxx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 
 
@@ -602,7 +602,7 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",TYC SPORT 01
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT 01
 http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="UFC/BOXING",UFC Fight Pass (USA)
@@ -636,10 +636,10 @@ https://devds.site/api/youlive.m3u8?v=dGTEfbdZNv4
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT1
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI Sport2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI Sport2
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI SPORT3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
@@ -657,5 +657,5 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ES: MOVISTAR LIGA DE CAMPEONES
 http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/2800
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="live event",tyc liveevent
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",tyc liveevent
 http://45.84.217.28:25461/live/nany1/nany1/86628.m3u8
