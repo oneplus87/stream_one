@@ -130,8 +130,13 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL",INews useetv
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rtv" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="TV NASIONAL",Rtv useetv
-https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd?o1=120870115&o2=120870035&o3=120872035&o4=120870035&oa=120870035
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rtv" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="TV NASIONAL",Rtv 1
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="rajawalitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=rajawaliteve
+http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
 
 #EXTINF:-1 group-title="SPORT INDONESIA" tvg-id="championstv1worldcup.id" tvg-logo="https://i.imgur.com/krTn2fI.png",Champions TV World Cup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -164,6 +169,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports3
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -365,10 +381,10 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 #EXTINF:-1 group-title="ASTRO MY",Astro SuperSport 5 kuchini
 http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 
-#EXTINF:-1 group-title="SPORT WORLD" tvg-id="barcatv.es" tvg-logo="https://i.imgur.com/7DnpNtj.png",Barça TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=barcateve
-https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
+##EXTINF:-1 group-title="SPORT WORLD" tvg-id="barcatv.es" tvg-logo="https://i.imgur.com/7DnpNtj.png",Barça TV#
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey#
+##KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=barcateve#
+##https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd#
 
 #EXTINF:-1 group-title="UFC/BOXING" tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -633,7 +649,7 @@ https://devds.site/api/youlive.m3u8?v=AYj2iUokADA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title=" RELIGIUS ",Live Tv MAKKAH
 https://devds.site/api/youlive.m3u8?v=dGTEfbdZNv4
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="live event",TVRI SPORT1
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI SPORT1
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI Sport2
