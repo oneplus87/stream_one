@@ -130,10 +130,7 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL",INews useetv
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rtv" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="TV NASIONAL",Rtv 1
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="rajawalitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV 2
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="rajawalitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=rajawaliteve
 http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
@@ -169,16 +166,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports1
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mncsports.png" group-title="SPORT INDONESIA", MNC Sports3
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
 
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png",IMC
