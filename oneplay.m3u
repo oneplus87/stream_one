@@ -721,7 +721,7 @@ https://ariev2.vercel.app/api/play.mpd?id=6686&pw=ariev7xx
 https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
 
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONLA", MNC TV (rcti+)
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL", MNC TV (rcti+)
 #EXTVLCOPT:http-user-agent="android-R+"
 https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R+"
 
