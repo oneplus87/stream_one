@@ -22,16 +22,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="TV NASIONAL",trans7 useetv
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="TV NASIONAL",nettv
-https://beetv.my.id/x/oxygen-nettv-hd-gojokkk.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff01776c4ea3520a72/dfbeb8234b8d4794be107648d83c57ac.png" group-title="TV NASIONAL",NET TV
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="TV NASIONAL",tvone useetv
 https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd?o1=52061000&o2=52061000&o3=52061000&oa=52061000
@@ -111,9 +103,14 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296214
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQuCmOh6Ke98ZQqU7znwCrFsODoLocFo-6w&usqp=CAU" group-title="TV NASIONAL",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesport_ver1.png" group-title="SPORT INDONESIA",Usee Sport 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298577
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_useesports2_ver1.png" group-title="SPORT INDONESIA",Usee Sport 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298578
+#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298577
+
+#EXTINF:-1 group-title="SPORT INDONESIA" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1
+https://ariev7xx.github.io/tv/useesport1.m3u
+
+#EXTINF:-1 group-title="SPORT INDONESIA" tvg-id="useesports2.id" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2
+https://ariev7xx.github.io/tv/useesport2.m3u
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="TV NASIONAL",Moji
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
@@ -723,3 +720,58 @@ https://ariev2.vercel.app/api/play.mpd?id=6686&pw=ariev7xx
 #EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png" group-title="SPORT INDONESIA", Champions TV 1 (Live)
 https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
 
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/123.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest",Astro SuperSport 2 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/124.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest",Astro SuperSport 3 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/125.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest",Astro SuperSport 4 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/126.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="ASTRO MY" tvg-id="astrosupersport5.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest",Astro SuperSport 5 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/43.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="BT SPORT", BT Sport 1 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/31.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="BT SPORT" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sport 2 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/32.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="BT SPORT" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT Sport 3 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/33.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 group-title="BT SPORT" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT Sport 4 ariev
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dd.ariev.workers.dev/id/34.m3u8|Referer="https://ntuplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONLA", MNC TV (rcti+)
+#EXTVLCOPT:http-user-agent="android-R+"
+https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R+"
+
+##EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV NASIONAL",iNews (rcti+)
+#https://ariev.vercel.app/api/4-inews|User-Agent="android-R+"
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV (rcti+)
+#EXTVLCOPT:http-user-agent="android-R+"
+https://ariev.vercel.app/api/1-rcti?id=3&pw=ariev7xx&user=|User-Agent="android-R+"
