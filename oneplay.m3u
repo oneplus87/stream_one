@@ -725,6 +725,10 @@ https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
 #EXTVLCOPT:http-user-agent="android-R+"
 https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R+"
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="TV NASIONAL",SCTV(sports)
+https://ariev2.vercel.app/api/play.mpd?id=204&pw=ariev7xx
+
+
 ##EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV NASIONAL",iNews (rcti+)
 #https://ariev.vercel.app/api/4-inews|User-Agent="android-R+"
 
