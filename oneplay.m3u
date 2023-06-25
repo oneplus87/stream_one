@@ -741,19 +741,19 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099140
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099141
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 1 zz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="BT SPORT",BT Sport 1 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts&play_token=zulkarnain@.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 2 zz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="BT SPORT",BT Sport 2 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts&play_token=zulkarnain@.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 3 zz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="BT SPORT",BT Sport 3 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts&play_token=zulkarnain@.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 4 zz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="BT SPORT",BT Sport 4 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts&play_token=zulkarnain@.ts
 
