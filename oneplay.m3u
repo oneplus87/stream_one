@@ -466,13 +466,13 @@ http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/9880
 http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/1492
 
 #EXTINF:-1 group-title="BT SPORT" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",UK014:BT Sport 1 HD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2943
+#http://ae2.aatvbox.club:8880/12mk160078/31623992/2943
 #EXTINF:-1 group-title="BT SPORT" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",UK015:BT Sport 2 HD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2942
+#http://ae2.aatvbox.club:8880/12mk160078/31623992/2942
 #EXTINF:-1 group-title="BT SPORT" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",UK016:BT Sport 3 HD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2941
+#http://ae2.aatvbox.club:8880/12mk160078/31623992/2941
 #EXTINF:-1 group-title="BT SPORT" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",UK112:BT Sports 4 HD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28947
+#http://ae2.aatvbox.club:8880/12mk160078/31623992/28947
 
 #EXTINF:-1 group-title="BT SPORT" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT Sports1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -741,16 +741,19 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099140
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099141
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT PREMIUM",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 1 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT PREMIUM",BT Sport 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 2 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT PREMIUM",BT Sport 3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 3 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT PREMIUM",BT Sport 4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT PREMIUM",BT Sport 4 zz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts&play_token=zulkarnain@.ts
 
