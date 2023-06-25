@@ -89,6 +89,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="TV NASIONAL",TRANS7
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drmcubmu?pw=ariev7xx
+#EXTINF:0 tvg-id="" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="TV NASIONAL",Trans 7 (A9+)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="TV NASIONAL",TV One
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296214
