@@ -494,19 +494,6 @@ http://webudit.cdnhks.lol/lb/premium33/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium34/index.m3u8
 
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="BT SPORT",BT SPORT 1
-http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/270
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="BT SPORT",BT SPORT 2 
-http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/273
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="BT SPORT",BT SPORT 3
-http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/271
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="BT SPORT",BT SPORT 4
-http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/298471
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="SPORT WORLD",Sky Sports Premier League zz
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="SPORT WORLD",Sky Sports Football zz
@@ -735,4 +722,22 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099136
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099137
 
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="BT SPORT", BT SPORT 1 bgjax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099138
+
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="BT SPORT 2" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="BT SPORT", BT SPORT 2 bgjax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099139
+
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="BT SPORT 3" tvg-logo="https://logo.iptveditor.com/btsport3.png" group-title="BT SPORT", BT SPORT 3 bgjax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099140
+
+#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="BT SPORT ESPN" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="BT SPORT", BT SPORT ESPN
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099141
 
