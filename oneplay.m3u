@@ -361,20 +361,29 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/8749
 
-
+#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="SPORT WORLD", SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099150
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",Sky Sport Premiere League Afxx
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298381
+#http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298381
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",Sky Sport Premiere League
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298381
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",IT: Sky Sport Football Afxx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/2543
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",IT: Sky Sport Football
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/2543
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ZA: SuperSport Football01
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28853
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",ZA: SuperSport Premier League01
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28848
+
+#EXTINF: -1 tvg-id="supersportfootball.za" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="https://logo.iptveditor.com/supersportfootball.png" group-title="SPORT WORLD", SUPERSPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099165
+
+#EXTINF: -1 tvg-id="supersportpremierleague.za" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/supersportpremierleague.png" group-title="SPORT WORLD", SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099170
 
 
 #EXTINF:-1 group-title="SPORT WORLD" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 Deutschland
@@ -501,7 +510,7 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium31/index.m3u8
 
-#EXTINF:-1 group-title="BT SPORT" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sports2
+#EXTINF:-1 group-title="BT SPORT;MOTOGP" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sports2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://webudit.cdnhks.lol/lb/premium32/index.m3u8
@@ -607,8 +616,7 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="SPORT WORLD",AL: Tring Sport 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1306
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",TYC SPORT 01
-http://ae2.aatvbox.club:8880/12mk160078/31623992/30054
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="UFC/BOXING",UFC Fight Pass (USA)
 http://burebaruta.xyz:12974/play/qPk1Bi3tYaOaEpwpbuxmuRixq9XjiFz3qIVJVPruDvRfyuOHBAckHekEO9YxSMwA
@@ -657,14 +665,11 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET.
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title="SPORT WORLD",tyc liveevent
-http://45.84.217.28:25461/live/nany1/nany1/86628.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR vid
 #https://ariev.vercel.app/api/play.m3u?id=205&pw=ariev7xx
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Vid
+#EXTINF:-1 group-title="TV NASIONAL;SPORT INDONESIA" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Vid
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -725,7 +730,7 @@ https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="TV NASIONAL",SCTV(sports)
 #https://ariev2.vercel.app/api/play.mpd?id=204&pw=ariev7xx
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV Vid
+#EXTINF:-1 group-title="TV NASIONAL;SPORT INDONESIA" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV Vid
 http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 
 
