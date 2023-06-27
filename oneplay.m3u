@@ -16,18 +16,12 @@ http://103.166.27.2:800/play/a015
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="TV NASIONAL",TRANS TV (useetv)
 https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=210928009&o3=210928009&o4=210928009&o5=210928009&oa=210928009
 
-#EXTINF:-1 tvg-name="ID: Trans 7" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png" group-title="TV NASIONAL",TRANS 7 (useetv)
-https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png", TV ONE
 http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png", TV ONE (backup) 
-#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV One (backup 2)
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV One (backup)
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296214
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV ONE useetv
@@ -47,10 +41,9 @@ http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI+ kuchini
 http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/157591
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI+
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png", RCTI+
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI
@@ -72,15 +65,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",Indosiar
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
 
+#EXTINF:-1 tvg-name="ID: Trans 7" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png" group-title="TV NASIONAL",TRANS 7 (useetv)
+https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="ID: Trans 7" group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans 7
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans 7
 http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="ID: Trans 7" group-title="TV NATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
+#EXTINF:-1 tvg-name="ID: Trans 7" group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (backup)
 https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
@@ -93,7 +88,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQuCmOh6Ke98ZQqU7znwCrFsODoLocFo-6w&usqp=CAU" group-title="TV NASIONAL",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="https://i.postimg.cc/d3pWtV9w/TVRI-Sport.png" group-title="TV NASIONAL",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3pWtV9w/TVRI-Sport.png" group-title="TV NASIONAL",TVRI Sport (backup)
@@ -182,7 +177,7 @@ http://103.152.118.53:80/streams/visyen/dash/IndonesiaMovieChannels-HD/master.mp
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIE",HBOID
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO 🇮🇩
+#EXTINF:-1 group-title="MOVIE" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
@@ -724,7 +719,7 @@ https://ariev2.vercel.app/api/play.mpd?id=6317&pw=ariev7xx
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png" group-title="SPORT INDONESIA",CHAMPIONS 2 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORT INDONESIA",CHAMPIONS 3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="SPORT INDONESIA",CHAMPIONS 3 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298514
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
