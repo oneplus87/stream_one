@@ -100,8 +100,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=206
-#EXTINF:-1 tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI (backup)
-https://etslive-2-vidio-com.akamaized.net/exp=1687962444~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2ecf0e6d0c98b50cf7024289ef1daa1bd98c6a87ab0d2bf2e47b884a12db81e8/vp9/206_stream.mpd
+#EXTINF:-1 tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI 2
+https://etslive-2-vidio-com.akamaized.net/exp=1687964643~acl=/hls-p/ingest_206_*/*~hmac=a562c3e58625b58abe5f43a897bcfc7180b2cc1c64bef6362e4f21274e843bc9/hls-p/ingest_206_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -118,10 +118,7 @@ http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI+
 #EXTVLCOPT:http-user-agent="android-R+"
-https://ariev.vercel.app/api/1-rcti?id=1&pw=ariev7xx&user=|User-Agent="android-R+"
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI+ kuchini
-http://kuchini.site:8080/xplatinum/FnDHVs5XQz2Zs68R/157591
+https://1dash-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1687955405-e294f0ccd0c945c3d9811554f123472d-0-78e92d79211b78fb8d5897caeb52e85a
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -142,8 +139,7 @@ http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/320px-Rajawali_Televisi.svg.png" group-title="TV NASIONAL",RTV (backup)
-https://ariev.vercel.app/api/play.m3u?id=1561&pw=ariev7xx
-#https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://live-production.secureswiftcontent.com/exp=1687957562~acl=/hls-p/ingest_1561_*/*~hmac=9555be7b5be09febec7ce685dc4ed4130c2c78ff9348fc9ed1ff52a75f2f8186/hls-p/ingest_1561_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -158,7 +154,7 @@ http://103.166.27.2:800/play/a015
 #http://103.152.118.53:80/streams/esceteve/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL",SCTV(sports)
-https://ariev2.vercel.app/api/play.mpd?id=204&pw=ariev7xx
+https://etslive-2-vidio-com.akamaized.net/exp=1687953605~acl=/hls-p/ingest_204_*/*~hmac=83d976e20a445872662249b94ada26f30370781a01f9ac2a6fe5ea976be3c153/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL;SPORT INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png", SCTV Vid
 http://103.152.118.53:80/streams/esceteve_2/index.m3u8
@@ -176,10 +172,13 @@ https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans 7
 http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png" group-title="TV NASIONAL",Trans 7 (2)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="ID: Trans 7" group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png",Trans 7 (backup)
-https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drmcubmu?pw=update1
+#EXTINF:0 tvg-id="" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png" group-title="TV NASIONAL",Trans 7 (A9+)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="TV NASIONAL",TRANS TV (useetv)
 https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=210928009&o3=210928009&o4=210928009&o5=210928009&oa=210928009
@@ -194,7 +193,7 @@ http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png", TV ONE
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png", TV ONE 
 http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV One (backup)
@@ -203,6 +202,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296214
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV ONE useetv
 https://cdn09jtedge.indihometv.com/dvr/139/tvone/manifest.mpd?o1=52061000&o2=52061000&o3=52061000&oa=52061000
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="TV NASIONAL",TV ONE 2
+https://etslive-2-vidio-com.akamaized.net/exp=1687957621~acl=/hls-p/ingest_783_*/*~hmac=787929f4cb0529f106d7a0cda59d67e7bbd2840cc502331211d8cf5bbee66746/hls-p/ingest_783_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -766,30 +767,31 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6299
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="SPORT INDONESIA",beIN Sports 1 ariev
-https://ariev2.vercel.app/api/play.mpd?id=6299&pw=ariev7xx
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6317
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/320px-Logo_bein_sports_3.png" group-title="SPORT INDONESIA",beIN Sports 3 ariev
-https://ariev2.vercel.app/api/play.mpd?id=6317&pw=ariev7xx
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png" group-title="SPORT INDONESIA",CHAMPIONS 1 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png" group-title="SPORT INDONESIA",CHAMPIONS 2 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="SPORT INDONESIA",CHAMPIONS 3 
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298514
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6786_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6686
 #EXTINF:-1 tvg-name="Champion TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png" group-title="SPORT INDONESIA", Champions TV 2 (Live)
-https://ariev2.vercel.app/api/play.mpd?id=6686&pw=ariev7xx
+#https://ariev2.vercel.app/api/play.mpd?id=6686&pw=ariev7xx
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6685
 #EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png" group-title="SPORT INDONESIA", Champions TV 1 (Live)
-https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
+#https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
 
 #EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="https://logo.iptveditor.com/astrosupersport.png" group-title="ASTRO MY", ASTRO SUPERSPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -856,7 +858,6 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099226
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099171
-
 
 #EXTINF: -1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://logo.iptveditor.com/network.png" group-title="SPORT WORLD", USA NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
