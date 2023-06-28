@@ -60,7 +60,7 @@ http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV NASIONAL",iNews (rcti+)
 #https://ariev.vercel.app/api/4-inews|User-Agent="android-R+"
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png" group-title="TV NASIONAL",Kompas TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png" group-title="TV NASIONAL",Kompas TV 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165060
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png" group-title="TV NASIONAL",Kompas TV useetv
@@ -92,7 +92,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-user-agent="android-R+"
 https://1dash-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1687966443-be30932b445e04a8c87d3b4745f729cf-0-e36d85a26701a04919b286ae29aeffa6
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI 2
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
 
 #EXTINF:-1 group-title="TV NASIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png",MOJI 1 
@@ -765,13 +765,13 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6299
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=6299
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="SPORT INDONESIA",beIN Sports 1 ariev
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6317
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=6317
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/320px-Logo_bein_sports_3.png" group-title="SPORT INDONESIA",beIN Sports 3 ariev
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
@@ -779,7 +779,10 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png" group-title="SPORT INDONESIA",CHAMPIONS 2 
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="SPORT INDONESIA",CHAMPIONS 3 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=6786
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCmBNTYC/CHAMPIONSTV3-1.png" group-title="SPORT INDONESIA",Champions TV 3
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6786_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
