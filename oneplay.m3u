@@ -16,13 +16,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=113688142&o2=113
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=anteve
 http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="test",GTV (rcti+)
-#EXTVLCOPT:http-user-agent="android-R+"
-https://1dash-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1687944963-fcc0f8352a62bcdf1d5bb78d7d7ca811-0-9d53c24fe46da8e174dcd1f14802ca12
-
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV (rcti+)
 #EXTVLCOPT:http-user-agent="android-R+"
-https://ariev.vercel.app/api/1-rcti?id=3&pw=update1&user=|User-Agent="android-R+"
+https://1dash-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1687944963-fcc0f8352a62bcdf1d5bb78d7d7ca811-0-9d53c24fe46da8e174dcd1f14802ca12
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157578
@@ -45,7 +41,7 @@ http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=205
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR(Liga1)
-https://ariev2.vercel.app/api/play.mpd?id=205&pw=ariev7xx
+https://etslive-2-vidio-com.akamaized.net/exp=1687962444~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=2ecf0e6d0c98b50cf7024289ef1daa1bd98c6a87ab0d2bf2e47b884a12db81e8/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL;SPORT INDONESIA",INDOSIAR (vid 2)
 https://app-etslive-2.vidio.com/live/205/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjIwNSwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzIwNS9tYXN0ZXIubTN1OCIsImV4cGlyZV9pbiI6MTQ0MDB9LCJleHAiOjE2MTM0NjMwODgsImlzcyI6Ind3dy52aWRpby5jb20ifQ.YCp7DzMNA7r-qWSJMw6sbjzDTjNooEX9voRAG49lRaMDDA3lQazNti71J9Q1EggwTWYyIfLHgHLXfJSLhl7w2nVEeYcgQvYWZhV_Nw2we0cF-HDRyGAg_vOqKDzJZgb927OyxTuY2IjtqhhXHgWAq0GEBVwlligdFhDFUhrqdyyokRn1v8PigEnwxQvbxicwoElFc_MKbzu8Dt91-uFxz2roaXVOkU3Bu4jDnchug-MKEHiLexSbRL1BsCG-ASykvFXNJnLuiWq3iEF7FNcYXTAg8lIaMrPvNb4_xpxbtrq6dqIZ_2wyTuh7wnAHVDEuhfQxWS75JrfyYD7OTGXAUQ&amp;auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkdlMGV6VUVjM3d0bEZjQ1lCUTc3eTQ5ckdRQU9vRUw5TXVmc1ZmOW5MbWVRUTlqQ0lTenhkcWNtejE5Zkd6ZzBpZ2JyYnA0RDZsS1BNM0lqTm50d0s1akQrSE9NM2hLZVRUMFhXc0puSWVCWC8yRVNRUXJ1ZE1PSU5sQ2VqWGlJbEZxb0xVVzB0cEYrdEhRbEk4emJ1TVhrL1ZlQkc2NnJXY3hxYjgzd0tUa2NoNUJjRzlDeHdjcmp2cTBVV1RtNEJLMVd1YnU1bHlBbVRZbzJnNFhZaFNPZ1E0QkcwSlVOUFZISjZ1dzdvWVJzdzBqZWFjSSs3eTQ4ME4yVDR5dDFlUWJ0bThYYVlSQzQ5OXNLK3ZDS2RYa3JYekZiQUJXbmdrK01jMFhmL3NXNGxkYVBVRHpzSkVaOUxnTExta3Q5cDVicHQyUVFnZ09ucENXV1hIZEpBWk1iVlFjbDJ3bE4rM1RBdDlaQW5td05JTUE2QjhGdGtFKzF5c2VjNjhPN2sveElJalQ3VUVZQXBSbG9sSCtWYVNOS3RkQXNyN3BtdVo3UE40V1ZudzgwUzk4R0xzYXgwanBJR0JsdXVBTnFMc1JRRnJlZVlOSnJRTXE4MUZ5Umk1aWQ4dStFT2ZHYzFwSVBvckwrZlllVktyNkllc3JvWjhtSVVxeFJzckROYUlka0syazQ2NnNrRnY3WUZzNllpUzBOdmljMWprNDdsNVF3UnZHUGJEZjBBSVRERUlraVhobWRmZ1IzK2FadWVURG9jdHcwR3kwa3ZuOXZyWmJyTU1MMWtUL05PalFRRWNFdjBuTkJGTXpTQzVsQm9VTzBzdXZ0a1NlTHJyNlJ4VmovWUsxdmF1b1ZocHh5VHQwOGdBcUxaQVk1Unc2UVFPUnAvS25ObFB4cHIyOHk1MlhDL1JBM2lQaERpQzNyN0d5SnQzVGwxdU8zYm1YWHFvenBHZz09&amp;trace_id=1613462308254881736.m3u8
