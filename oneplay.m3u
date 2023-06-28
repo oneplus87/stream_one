@@ -30,12 +30,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",Indosiar
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
+#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR vid
 #https://ariev.vercel.app/api/play.m3u?id=205&pw=ariev7xx
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" group-title="TV NASIONAL;SPORT INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png", INDOSIAR Vid
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" group-title="TV NASIONAL;SPORT INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png", INDOSIAR 1 (v)
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,7 +43,7 @@ http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR(Liga1)
 https://etslive-2-vidio-com.akamaized.net/exp=1687962444~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=2ecf0e6d0c98b50cf7024289ef1daa1bd98c6a87ab0d2bf2e47b884a12db81e8/vp9/205_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL;SPORT INDONESIA",INDOSIAR (vid 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL;SPORT INDONESIA",INDOSIAR 2(v)
 https://app-etslive-2.vidio.com/live/205/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjIwNSwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzIwNS9tYXN0ZXIubTN1OCIsImV4cGlyZV9pbiI6MTQ0MDB9LCJleHAiOjE2MTM0NjMwODgsImlzcyI6Ind3dy52aWRpby5jb20ifQ.YCp7DzMNA7r-qWSJMw6sbjzDTjNooEX9voRAG49lRaMDDA3lQazNti71J9Q1EggwTWYyIfLHgHLXfJSLhl7w2nVEeYcgQvYWZhV_Nw2we0cF-HDRyGAg_vOqKDzJZgb927OyxTuY2IjtqhhXHgWAq0GEBVwlligdFhDFUhrqdyyokRn1v8PigEnwxQvbxicwoElFc_MKbzu8Dt91-uFxz2roaXVOkU3Bu4jDnchug-MKEHiLexSbRL1BsCG-ASykvFXNJnLuiWq3iEF7FNcYXTAg8lIaMrPvNb4_xpxbtrq6dqIZ_2wyTuh7wnAHVDEuhfQxWS75JrfyYD7OTGXAUQ&amp;auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkdlMGV6VUVjM3d0bEZjQ1lCUTc3eTQ5ckdRQU9vRUw5TXVmc1ZmOW5MbWVRUTlqQ0lTenhkcWNtejE5Zkd6ZzBpZ2JyYnA0RDZsS1BNM0lqTm50d0s1akQrSE9NM2hLZVRUMFhXc0puSWVCWC8yRVNRUXJ1ZE1PSU5sQ2VqWGlJbEZxb0xVVzB0cEYrdEhRbEk4emJ1TVhrL1ZlQkc2NnJXY3hxYjgzd0tUa2NoNUJjRzlDeHdjcmp2cTBVV1RtNEJLMVd1YnU1bHlBbVRZbzJnNFhZaFNPZ1E0QkcwSlVOUFZISjZ1dzdvWVJzdzBqZWFjSSs3eTQ4ME4yVDR5dDFlUWJ0bThYYVlSQzQ5OXNLK3ZDS2RYa3JYekZiQUJXbmdrK01jMFhmL3NXNGxkYVBVRHpzSkVaOUxnTExta3Q5cDVicHQyUVFnZ09ucENXV1hIZEpBWk1iVlFjbDJ3bE4rM1RBdDlaQW5td05JTUE2QjhGdGtFKzF5c2VjNjhPN2sveElJalQ3VUVZQXBSbG9sSCtWYVNOS3RkQXNyN3BtdVo3UE40V1ZudzgwUzk4R0xzYXgwanBJR0JsdXVBTnFMc1JRRnJlZVlOSnJRTXE4MUZ5Umk1aWQ4dStFT2ZHYzFwSVBvckwrZlllVktyNkllc3JvWjhtSVVxeFJzckROYUlka0syazQ2NnNrRnY3WUZzNllpUzBOdmljMWprNDdsNVF3UnZHUGJEZjBBSVRERUlraVhobWRmZ1IzK2FadWVURG9jdHcwR3kwa3ZuOXZyWmJyTU1MMWtUL05PalFRRWNFdjBuTkJGTXpTQzVsQm9VTzBzdXZ0a1NlTHJyNlJ4VmovWUsxdmF1b1ZocHh5VHQwOGdBcUxaQVk1Unc2UVFPUnAvS25ObFB4cHIyOHk1MlhDL1JBM2lQaERpQzNyN0d5SnQzVGwxdU8zYm1YWHFvenBHZz09&amp;trace_id=1613462308254881736.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="TV NASIONAL",INews 2
@@ -57,7 +57,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png", iNews 1
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-##EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV NASIONAL",iNews (rcti+)
+#EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="TV NASIONAL",iNews (rcti+)
 #https://ariev.vercel.app/api/4-inews|User-Agent="android-R+"
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png" group-title="TV NASIONAL",Kompas TV
@@ -82,7 +82,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165059
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png", Metro TV
 http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-
 #EXTINF:-1 tv-name="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL",MNC TV
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/165054
 
@@ -91,7 +90,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL", MNC TV (rcti+)
 #EXTVLCOPT:http-user-agent="android-R+"
-https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R+"
+https://1dash-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1687966443-be30932b445e04a8c87d3b4745f729cf-0-e36d85a26701a04919b286ae29aeffa6
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
@@ -102,7 +101,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=206
 #EXTINF:-1 tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI (backup)
-https://ariev2.vercel.app/api/play.mpd?id=206&pw=ariev7xx
+https://etslive-2-vidio-com.akamaized.net/exp=1687962444~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=2ecf0e6d0c98b50cf7024289ef1daa1bd98c6a87ab0d2bf2e47b884a12db81e8/vp9/206_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -791,11 +790,6 @@ https://ariev2.vercel.app/api/play.mpd?id=6686&pw=ariev7xx
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=6685
 #EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png" group-title="SPORT INDONESIA", Champions TV 1 (Live)
 https://ariev2.vercel.app/api/play.mpd?id=6685&pw=ariev7xx
-
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL", MNC TV (rcti+)
-#EXTVLCOPT:http-user-agent="android-R+"
-https://ariev.vercel.app/api/1-rcti?id=2&pw=ariev7xx&user=|User-Agent="android-R+"
 
 #EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="https://logo.iptveditor.com/astrosupersport.png" group-title="ASTRO MY", ASTRO SUPERSPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
