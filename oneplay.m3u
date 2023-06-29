@@ -101,7 +101,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=206
 #EXTINF:-1 tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="TV NASIONAL",MOJI 2
-https://etslive-2-vidio-com.akamaized.net/exp=1687964643~acl=/hls-p/ingest_206_*/*~hmac=a562c3e58625b58abe5f43a897bcfc7180b2cc1c64bef6362e4f21274e843bc9/hls-p/ingest_206_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1687964643~acl=/hls-p/ingest_206_*/*~hmac=a562c3e58625b58abe5f43a897bcfc7180b2cc1c64bef6362e4f21274e843bc9/hls-p/ingest_206_720p/index.m3u8
+https://github.com/thefirefox12537/streams/blob/3889f506b0fb3c63b747e7bef9ec52fe4c1bca65/moji_2.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
