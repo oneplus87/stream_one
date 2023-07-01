@@ -31,6 +31,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV useetv
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidautorolling-46c7387f799d.herokuapp.com/day.php?id=13559
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="SPORT INDONESIA",INDOSIAR liga1
+https://vidautorolling-46c7387f799d.herokuapp.com/play.mpd?id=13559
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",indosiar useetv
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
 
