@@ -24,7 +24,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL",ANTV useetv
 #https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=113688142&o2=113688062&o3=113688062&o4=113688062&oa=113688062
-https://cdn14jtedge.indihometv.com/joss/130/antv/chunklist_w1535798604_b1004100_sleng.m3u8?enc=PWdakGE9wMijxTVUz5PU7A&uid=&exp=1690528261
+https://streaming.indihometv.com/joss/130/antv/playlist.m3u8?enc=3WahFDR5ng3EhkRy6D04KQ&exp=1690520788&encp=3wfrWrxmjyg8pJbtZhYLJw&expp=1690529488
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
