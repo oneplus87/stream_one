@@ -1,4 +1,18 @@
-#EXTM3U x-tvg-url="https://bit.ly/epgfirefox,https://s.id/epg-mnc,https://bit.ly/epgmacan,https://bit.ly/epg-mnc,https://bit.ly/nontonsite,https://bit.ly/Astro-epg,https://bit.ly/epg-vidio,https://bit.ly/epgfirefox,https://s.id/epg-mnc,https://bit.ly/epgmacan,https://bit.ly/epg-mnc,https://bit.ly/nontonsite,https://bit.ly/Astro-epg,https://bit.ly/epg-vidio,https://stavol.masuk.web.id/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+
+#EXTM3U x-tvg-url="https://bit.ly/epgfirefox"
+#EXTM3U x-tvg-url="https://s.id/epg-mnc"
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://bit.ly/epgmacan"
+#EXTM3U url-tvg="https://bit.ly/epg-vidio"
+#EXTM3U url-tvg="https://epg.mammothtv.my.id/main/epg.xml.gz"
+#EXTM3U url-tvg="http://103.152.118.53:80/global/epg.xml.gz"
+
 
 refresh="3600"
 
@@ -9,7 +23,9 @@ refresh="3600"
 https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL",ANTV useetv
-https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=113688142&o2=113688062&o3=113688062&o4=113688062&oa=113688062
+#https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=113688142&o2=113688062&o3=113688062&o4=113688062&oa=113688062
+https://cdn14jtedge.indihometv.com/joss/130/antv/media_w1535798604_b1004100_sleng_30249.ts
+
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -31,7 +47,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV useetv
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 tvg-id="1a65b7e598ecc9fc7d7e8843dc1d444c" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL;TV NASIONAL",INDOSIAR liga1
+#EXTINF:-1 tvg-id="1a65b7e598ecc9fc7d7e8843dc1d444c" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR liga1
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",indosiar useetv
@@ -905,3 +921,26 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099171
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099154
 
+
+#EXTINF: -1 tvg-name="SPORT TV 1 HD" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-title="SPORT WORLD", SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099178
+#EXTINF: -1 tvg-name="SPORT TV 2 HD" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="SPORT WORLD", SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099179
+#EXTINF: -1 tvg-name="SPORT TV 3 HD" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="SPORT WORLD", SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099180
+
+
+#EXTINF: -1 tvg-id="premiersports.uk" tvg-name="PREMIER SPORTS 1" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="SPORT WORLD", PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099220
+#EXTINF: -1 tvg-id="premiersports2.uk" tvg-name="PREMIER SPORTS 2" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="SPORT WORLD", PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099221
