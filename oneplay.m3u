@@ -51,7 +51,8 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",indosiar useetv
-https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
+#https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
+https://streaming.indihometv.com/joss/133/indosiar/playlist.m3u8?enc=U07jZ8BNpmtzvPWuCQYiCw&exp=1690521036&encp=2K-0__AM2J5IuVo58KD7OQ&expp=1690529736
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",Indosiar
 #http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
@@ -196,7 +197,8 @@ http://103.180.119.90:9911/stream/channelid/522644296?profile=pass
 
 
 #EXTINF:-1 tvg-name="ID: Trans 7" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png" group-title="TV NASIONAL",TRANS 7 (useetv)
-https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
+#https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd?stime=1685935945&etime=1685935945&encoded=01a68ca7040a7e8134afc
+https://streaming.indihometv.com/joss/133/trans7/playlist.m3u8?enc=Y2yrwvJJy6QdSNzB0In-sA&exp=1690521502&encp=ZCry77E3LfiGzPDTR2rTVA&expp=1690530202
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -212,7 +214,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sle
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="TV NASIONAL",TRANS TV (useetv)
-https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=210928009&o3=210928009&o4=210928009&o5=210928009&oa=210928009
+#https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd?o1=210928009&o2=210928009&o3=210928009&o4=210928009&o5=210928009&oa=210928009
+https://streaming.indihometv.com/joss/133/transtv1080/playlist.m3u8?enc=viPZIc71OrJnA4aP9yKpaA&exp=1690521405&encp=pdtrqHI0d8s_IQ8KkbZyvA&expp=1690530105
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="TV NASIONAL",TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
