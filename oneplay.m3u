@@ -32,6 +32,11 @@ https://streaming.indihometv.com/joss/130/antv/playlist.m3u8?enc=3WahFDR5ng3EhkR
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=anteve
 http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/update1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="TV NASIONAL",ANTV
+https://ariev.fun/api/play.m3u?id=782&pw=update1
+
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="TV NASIONAL",GTV (rcti+)
 #EXTVLCOPT:http-user-agent="android-R+"
 https://ariev.vercel.app/api/1-rcti?id=3&pw=update1&user=|User-Agent="android-R+"
@@ -54,22 +59,18 @@ http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?stime=1686057724&etime=1686057724&encoded=0b984ba9c295fa01915a1
 https://streaming.indihometv.com/joss/133/indosiar/playlist.m3u8?enc=j1ODERCz_Iq7d4QtobSZ_Q&exp=1690521750&encp=zvg-gltvbkBmm8liNaclfA&expp=1690530450
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",Indosiar
-#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR vid
-#https://ariev.vercel.app/api/play.m3u?id=205&pw=ariev7xx
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png", INDOSIAR 1 (v)
-http://103.152.118.53:80/streams/indosiar_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR v
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/drmcubmu?pw=update1
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://ariev.fun/api/play.m3u?id=205&pw=update1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=205
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR(Liga1)
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR(Liga1 event live )
 https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="TV NASIONAL",INDOSIAR 2(v)
-https://app-etslive-2.vidio.com/live/205/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjIwNSwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzIwNS9tYXN0ZXIubTN1OCIsImV4cGlyZV9pbiI6MTQ0MDB9LCJleHAiOjE2MTM0NjMwODgsImlzcyI6Ind3dy52aWRpby5jb20ifQ.YCp7DzMNA7r-qWSJMw6sbjzDTjNooEX9voRAG49lRaMDDA3lQazNti71J9Q1EggwTWYyIfLHgHLXfJSLhl7w2nVEeYcgQvYWZhV_Nw2we0cF-HDRyGAg_vOqKDzJZgb927OyxTuY2IjtqhhXHgWAq0GEBVwlligdFhDFUhrqdyyokRn1v8PigEnwxQvbxicwoElFc_MKbzu8Dt91-uFxz2roaXVOkU3Bu4jDnchug-MKEHiLexSbRL1BsCG-ASykvFXNJnLuiWq3iEF7FNcYXTAg8lIaMrPvNb4_xpxbtrq6dqIZ_2wyTuh7wnAHVDEuhfQxWS75JrfyYD7OTGXAUQ&amp;auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkdlMGV6VUVjM3d0bEZjQ1lCUTc3eTQ5ckdRQU9vRUw5TXVmc1ZmOW5MbWVRUTlqQ0lTenhkcWNtejE5Zkd6ZzBpZ2JyYnA0RDZsS1BNM0lqTm50d0s1akQrSE9NM2hLZVRUMFhXc0puSWVCWC8yRVNRUXJ1ZE1PSU5sQ2VqWGlJbEZxb0xVVzB0cEYrdEhRbEk4emJ1TVhrL1ZlQkc2NnJXY3hxYjgzd0tUa2NoNUJjRzlDeHdjcmp2cTBVV1RtNEJLMVd1YnU1bHlBbVRZbzJnNFhZaFNPZ1E0QkcwSlVOUFZISjZ1dzdvWVJzdzBqZWFjSSs3eTQ4ME4yVDR5dDFlUWJ0bThYYVlSQzQ5OXNLK3ZDS2RYa3JYekZiQUJXbmdrK01jMFhmL3NXNGxkYVBVRHpzSkVaOUxnTExta3Q5cDVicHQyUVFnZ09ucENXV1hIZEpBWk1iVlFjbDJ3bE4rM1RBdDlaQW5td05JTUE2QjhGdGtFKzF5c2VjNjhPN2sveElJalQ3VUVZQXBSbG9sSCtWYVNOS3RkQXNyN3BtdVo3UE40V1ZudzgwUzk4R0xzYXgwanBJR0JsdXVBTnFMc1JRRnJlZVlOSnJRTXE4MUZ5Umk1aWQ4dStFT2ZHYzFwSVBvckwrZlllVktyNkllc3JvWjhtSVVxeFJzckROYUlka0syazQ2NnNrRnY3WUZzNllpUzBOdmljMWprNDdsNVF3UnZHUGJEZjBBSVRERUlraVhobWRmZ1IzK2FadWVURG9jdHcwR3kwa3ZuOXZyWmJyTU1MMWtUL05PalFRRWNFdjBuTkJGTXpTQzVsQm9VTzBzdXZ0a1NlTHJyNlJ4VmovWUsxdmF1b1ZocHh5VHQwOGdBcUxaQVk1Unc2UVFPUnAvS25ObFB4cHIyOHk1MlhDL1JBM2lQaERpQzNyN0d5SnQzVGwxdU8zYm1YWHFvenBHZz09&amp;trace_id=1613462308254881736.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="TV NASIONAL",INews 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
@@ -93,7 +94,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd?o1=209771997&o2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", Kompas TV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png",Kompas TV
 http://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png" group-title="TV NASIONAL",METRO TV useetv
@@ -107,8 +108,10 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165059
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png", Metro TV
 http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tv-name="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL",MNC TV
-http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/165054
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/update1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL",MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tv-name="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="TV NASIONAL",MNC TV useetv
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
@@ -145,6 +148,11 @@ http://103.180.119.90:9911/stream/channelid/666061261?profile=pass
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET TV (backup 2)
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/update1
+#EXTINF:-1 tvg-id="NET.id" tvg-name="Net." tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png" group-title="TV NASIONAL",NET TV (backup 3)
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI+
 #EXTVLCOPT:http-user-agent="android-R+"
 https://ariev.vercel.app/api/1-rcti?id=1&pw=update1&user=|User-Agent="android-R+"
@@ -160,10 +168,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157591
 #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI transvision
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-id="rajawalitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=rajawaliteve
-http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
+
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/update1
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/320px-Rajawali_Televisi.svg.png" group-title="TV NASIONAL",RTV
+https://ariev.fun/api/play.m3u?id=1561&pw=update1
+#https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -186,9 +196,6 @@ http://103.166.27.2:800/play/a015
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=204
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL",SCTV (sports)
 https://ariev2.vercel.app/api/play.mpd?id=204&pw=update1
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png", SCTV Vid
-http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="TV NASIONAL;SPORT INDONESIA",sctv (sport 2)
