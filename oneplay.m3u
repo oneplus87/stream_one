@@ -823,6 +823,13 @@ https://devds.site/api/youlive.m3u8?v=dGTEfbdZNv4
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JXPrFtF/photo-2022-11-21-17-36-30-removebg.png" group-title=" Timnas ",Live tv timnas
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=HBO&pw=update1
 #EXTINF:0 tvg-id="HBOAsia.us" tvg-name="HBO ASIA" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="MOVIE",HBO indo
