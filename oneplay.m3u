@@ -105,7 +105,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd?o1=209771997&o2
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png",Kompas TV
 http://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF: -1 tvg-id="metrotv.id" tvg-name="Metro TV" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png" group-title="NATIONAL TV", Metro TV (M*)
+#EXTINF: -1 tvg-id="metrotv.id" tvg-name="Metro TV" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png" group-title="TV NASIONAL", Metro TV (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880794
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png" group-title="TV NASIONAL",Metro TV (backup)
@@ -176,7 +176,7 @@ https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="NATIONAL TV" group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV NASIONAL" group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="TV NASIONAL",RCTI transvision
@@ -226,7 +226,7 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 
-#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png",Trans 7 (F*)
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png",Trans 7 (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -968,4 +968,3 @@ https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8?|Referer="
 #EXTVLCOPT:http-referrer=https://www.livedoomovie.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8?|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
-
